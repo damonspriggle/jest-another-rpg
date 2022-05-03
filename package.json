@@ -1,0 +1,23 @@
+
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "idk man",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damonspriggle/jest-another-rpg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damonspriggle/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/damonspriggle/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
